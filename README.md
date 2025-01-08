@@ -15,7 +15,7 @@ Hello! I'm **Dhairya**, a versatile software engineer and data scientist with a 
 - **Data Science**: Predictive Modeling, Transformer Modelling, NLP, LLMs, Hyperparameter Tuning, Deep Learning, Data Warehousing, Batch Processing
 - **Other Areas**: Cybersecurity, RDBMS, Parallel Programming, Cloud Computing, Business Intelligence
 
-### Interests
+#### Interests
 - **Machine Learning**:  
   - **Supervised Learning**: Expertise in Linear Regression, Logistic Regression, Decision Trees, Random Forest, XGBoost, and LightGBM for solving classification and regression problems.  
   - **Unsupervised Learning**: Experience with clustering algorithms such as K-Means, DBSCAN, and Hierarchical Clustering, along with dimensionality reduction techniques like PCA and t-SNE.  
@@ -24,7 +24,7 @@ Hello! I'm **Dhairya**, a versatile software engineer and data scientist with a 
   - **Model Evaluation and Optimization**: Adept at hyperparameter tuning, cross-validation, and using performance metrics like AUC-ROC, F1-Score, and RMSE to evaluate model effectiveness.  
   - **Applications**: Successfully applied machine learning models to solve real-world problems in healthcare, e-commerce, sports analytics, and geospatial data.  
 
-### Certifications
+#### Certifications
 - Google Data Analytics Certification
 - IBM Advanced Programming Certification
 - Stanford University Game Theory Certification
@@ -51,7 +51,7 @@ Here are some of my favorite projects:
 - **[Large Language Models as a Financial Analyst (Morningstar)](https://github.com/DhairyaKarna/uncertainity_in_LLMs)**:  
   - Created a Large Language Model called **QuantGPT** for Morningstar using **GCP Dataproc** and **TensorFlow** to generate automated fund analyses for investments and mutual funds, trained on 98,000 investment portfolio analyses.  
   - Designed a SaaS LLM Benchmarking model to quantify financial advice uncertainty across language models (**Llama 7B/13B/70B, GPT 2/Neo**) using distributed GPU clustering and validating 50,000 queries from real-world datasets.  
-- **[Data Annotation Service]([https://github.com/your-project-link](https://github.com/DhairyaKarna/Genomics-Cloud-SaaS-Platform))**: A scalable AWS-based workflow for processing genomic data with Stripe Integration.  
+- **[Data Annotation Service](https://github.com/DhairyaKarna/Genomics-Cloud-SaaS-Platform)**: A scalable AWS-based workflow for processing genomic data with Stripe Integration.  
 - **Patient Safety AI Model**: Developed predictive modeling to prioritize healthcare messages for providers, improving response times.  
 - **Sports Analytics**: Contributed to the UChicago Sports Analytics club, analyzing data to provide actionable insights.  
 
