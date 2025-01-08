@@ -1,4 +1,4 @@
-# Welcome to Dhairya's GitHub Profile! 👋
+# Welcome to My GitHub Profile! 👋
 
 Hello! I'm **Dhairya**, a versatile software engineer and data scientist with a passion for solving real-world problems through data, machine learning, natural language and Gen AI. My journey spans diverse projects in AI, healthcare, finance, and cloud computing, showcasing a blend of technical expertise and strategic thinking.
 
