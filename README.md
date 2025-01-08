@@ -61,18 +61,15 @@ Here are some of my favorite projects:
 Architected an AI-powered fraud detection system capable of processing over 1M transactions per second.  
 - Engineered a hybrid anomaly detection pipeline using LSTM, Autoencoders, and Random Forest models to identify fraudulent patterns.  
 - Leveraged **Apache Kafka** for real-time stream processing and scalable message distribution.  
-- Integrated explainable AI (XAI) tools to provide actionable insights for fraud prevention teams, improving trust and interpretability.  
 
 ### Self-Healing CI/CD Pipeline with Predictive Analytics  
 Built a robust CI/CD pipeline for a high-traffic e-commerce platform, reducing deployment failures by 40%.  
 - Automated infrastructure provisioning using **Terraform**, with predictive analytics to anticipate pipeline bottlenecks and failures.  
 - Implemented a declarative, Git-based workflow leveraging **Jenkins**, **GitOps**, and **ArgoCD**.  
 - Created real-time monitoring dashboards using the **ELK stack (Elasticsearch, Logstash, Kibana)** for deployment insights.  
-- Ensured zero-downtime deployments by adopting **blue-green** and **canary release strategies** for production environments.
 
 ### Multi-Tenant SaaS Platform for Enterprise Resource Planning (ERP)  
 Designed and developed a multi-tenant SaaS ERP solution serving over 500 enterprise clients.  
-- Built modular **microservices** in Node.js with gRPC communication for low-latency inter-service interactions.  
 - Developed a dynamic **role-based access control (RBAC)** system supporting granular permission levels for enhanced security.  
 - Optimized database queries using partitioning and indexing strategies in **PostgreSQL**, improving response times by 40%.  
 - Created a responsive front-end using **React** with real-time updates via WebSocket integration.
