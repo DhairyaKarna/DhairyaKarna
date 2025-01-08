@@ -1,17 +1,14 @@
 # Welcome to Dhairya's GitHub Profile! 👋
----
 
 Hello! I'm **Dhairya**, a versatile software engineer and data scientist with a passion for solving real-world problems through data, machine learning, natural language and Gen AI. My journey spans diverse projects in AI, healthcare, finance, and cloud computing, showcasing a blend of technical expertise and strategic thinking.
 
 ## About Me  
----
 - **Name**: Dhairya Karna
 - **Education**: M.Sc. in Computer Science, Specialization in Data Science & High Performance Computing
 - **University**: University of Chicago
 - **Location**: San Jose, CA
 
 ## Skills & Expertise  
----
 - **Languages**: Python, Java, SQL, R, MongoDB, ElasticSearch, C/C++, GoLang, Javascript   
 - **Tools & Platforms**: AWS, GCP, Azure, BigQuery, SQL Server, Jenkins, Postman, S3, DynamoDB, Tableau, Snowflake, Docker  
 - **Frameworks**: TensorFlow, PyTorch, Scikit-learn, Flask, HuggingFace, Amplitude, Linux, Bash Scripting, 
@@ -33,7 +30,6 @@ Hello! I'm **Dhairya**, a versatile software engineer and data scientist with a 
 - Stanford University Game Theory Certification
 
 ## Publications
----
 - **"Novel ML and Particle Swarm Optimization for Automated Energy Data Utilization"**  
    Published in *Advances in Intelligent Systems and Computing* (Springer).  
    [Read more](https://link.springer.com/chapter/10.1007/978-981-16-1476-7_33)
@@ -51,7 +47,6 @@ Hello! I'm **Dhairya**, a versatile software engineer and data scientist with a 
    [Read more](https://ieeexplore.ieee.org/document/9077561/keywords#keywords)
 
 ## Projects 
----
 Here are some of my favorite projects:  
 - **[Large Language Models as a Financial Analyst (Morningstar)](https://github.com/DhairyaKarna/uncertainity_in_LLMs)**:  
   - Created a Large Language Model called **QuantGPT** for Morningstar using **GCP Dataproc** and **TensorFlow** to generate automated fund analyses for investments and mutual funds, trained on 98,000 investment portfolio analyses.  
@@ -61,14 +56,12 @@ Here are some of my favorite projects:
 - **Sports Analytics**: Contributed to the UChicago Sports Analytics club, analyzing data to provide actionable insights.  
 
 ## What I’m Working On  
----
+
 ### Real-Time Fraud Detection Platform for Financial Transactions  
 Architected an AI-powered fraud detection system capable of processing over 1M transactions per second.  
 - Engineered a hybrid anomaly detection pipeline using LSTM, Autoencoders, and Random Forest models to identify fraudulent patterns.  
 - Leveraged **Apache Kafka** for real-time stream processing and scalable message distribution.  
 - Integrated explainable AI (XAI) tools to provide actionable insights for fraud prevention teams, improving trust and interpretability.  
-
----
 
 ### Self-Healing CI/CD Pipeline with Predictive Analytics  
 Built a robust CI/CD pipeline for a high-traffic e-commerce platform, reducing deployment failures by 40%.  
@@ -76,8 +69,6 @@ Built a robust CI/CD pipeline for a high-traffic e-commerce platform, reducing d
 - Implemented a declarative, Git-based workflow leveraging **Jenkins**, **GitOps**, and **ArgoCD**.  
 - Created real-time monitoring dashboards using the **ELK stack (Elasticsearch, Logstash, Kibana)** for deployment insights.  
 - Ensured zero-downtime deployments by adopting **blue-green** and **canary release strategies** for production environments.
-
----
 
 ### Multi-Tenant SaaS Platform for Enterprise Resource Planning (ERP)  
 Designed and developed a multi-tenant SaaS ERP solution serving over 500 enterprise clients.  
@@ -87,7 +78,6 @@ Designed and developed a multi-tenant SaaS ERP solution serving over 500 enterpr
 - Created a responsive front-end using **React** with real-time updates via WebSocket integration.
 
 ## How to Reach Me  
----
 Feel free to connect with me:  
 - **Email**: [dhairyakarna@gmail.com](mailto:dhairyakarna@gmail.com)  
 - **LinkedIn**: [My LinkedIn](https://www.linkedin.com/in/dhairya-karna/)  
